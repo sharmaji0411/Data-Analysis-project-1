@@ -1,0 +1,38 @@
+Project Title: Exploratory Data Analysis of Zomato Data
+
+Description: This project focuses on performing exploratory data analysis (EDA) on the Zomato dataset. The primary objective of this analysis is to identify key trends, correlations, and patterns within the data to gain insights of some question which helps to know data.
+
+Clean and preprocess the dataset to handle missing values and outliers.
+
+Visualize key features using charts like histograms, boxplots, and heatmap.
+
+Summarize findings and insights.
+
+
+Tools & Technologies:
+
+Languages: Python
+
+Libraries: Pandas, NumPy, Matplotlib, Seaborn.
+
+Environment: Jupyter Notebook
+
+Dataset: https://github.com/sharmaji0411/Data-Analysis-project-1/blob/main/Zomato%20data%20.csv
+
+
+Results:
+
+Using different types of chart to clearify the all questions.
+
+Visualized all the questions on histograms, boxplots,lineplot,barploat and heatmap.
+
+
+How to Run the Project:
+
+1. Clone the repository.
+
+
+2. Install dependencies using pip install -r requirements.txt.
+
+
+3. Run the Jupyter Notebook for a step-by-step analysis.
